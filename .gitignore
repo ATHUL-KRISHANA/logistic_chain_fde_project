@@ -2,3 +2,4 @@
 !requirements.txt
 myenv
 __pycache__/
+.env
